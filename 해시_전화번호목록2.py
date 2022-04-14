@@ -18,3 +18,7 @@ def solution(phone_book):
 
 
 print(solution(phone_book))
+print(solution(phone_book))
+print(solution(phone_book))
+
+
